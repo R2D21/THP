@@ -4,9 +4,6 @@
 [submodule "datasciences"]
 	path = datasciences
 	url = https://github.com/remiboivin/THP_Jeudi/
-[submodule "some_exercices"]
-	path = some_exercices
-	url = https://github.com/remiboivin/THP_mercredi
 [submodule "gossip"]
 	path = gossip
 	url = https://github.com/remiboivin/THP_Lundi_4
