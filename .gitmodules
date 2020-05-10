@@ -1,0 +1,48 @@
+[submodule "scrap_nokogiri"]
+	path = scrap_nokogiri
+	url = git@github.com:remiboivin/THP_Jeudi_2.git
+[submodule "datasciences"]
+	path = datasciences
+	url = https://github.com/remiboivin/THP_Jeudi/
+[submodule "some_exercices"]
+	path = some_exercices
+	url = https://github.com/remiboivin/THP_mercredi
+[submodule "gossip"]
+	path = gossip
+	url = https://github.com/remiboivin/THP_Lundi_4
+[submodule "massive_mailling"]
+	path = massive_mailling
+	url = git@github.com:remiboivin/THP_Jeudi_3.git
+[submodule "mails_s_scraper"]
+	path = mails_s_scraper
+	url = git@github.com:remiboivin/THP_Mercredi_3.git
+[submodule "tic_tac_toe"]
+	path = tic_tac_toe
+	url = git@github.com:remiboivin/THP_Mardi_3.git
+[submodule "e-commerce-chaton"]
+	path = e-commerce-chaton
+	url = git@github.com:remiboivin/e-commerce-chaton.git
+[submodule "Doctors_2"]
+	path = Doctors_2
+	url = git@github.com:remiboivin/Doctors_2.git
+[submodule "hacking-new"]
+	path = hacking-new
+	url = git@github.com:remiboivin/hacking-new.git
+[submodule "hacking-class"]
+	path = hacking-class
+	url = git@github.com:remiboivin/hacking-class.git
+[submodule "Pinterest"]
+	path = Pinterest
+	url = git@github.com:remiboivin/Pinterest.git
+[submodule "MOOCacademy"]
+	path = MOOCacademy
+	url = git@github.com:remiboivin/MOOCacademy.git
+[submodule "revisions_22"]
+	path = revisions_22
+	url = git@github.com:remiboivin/revisions_22.git
+[submodule "revisions_08"]
+	path = revisions_08
+	url = git@github.com:remiboivin/revisions_08.git
+[submodule "bot_twitter"]
+	path = bot_twitter
+	url = git@github.com:remiboivin/THP_mercredi_2.git
